@@ -1,8 +1,9 @@
-## 👋 Hola, soy Miguel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+## 👋 Hola, soy Miguel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" />
 
-Soy un estudiante colombiano de 20 años, apasionado por la **seguridad informática** y el **manejo de redes**. Me encuentro actualmente en el **6to semestre** de Ingeniería en Telecomunicaciones.
+Soy un estudiante colombiano de 20 años, apasionado por la **seguridad informática** y el **manejo de redes**. Me encuentro actualmente en el **6to semestre** de Ingeniería en Telecomunicaciones.  
+Me encanta aprender cosas nuevas, experimentar con tecnologías y meterme en proyectos locos que me reten 😄
 
 - 🌍 Idiomas: Español 🇨🇴, Inglés 🇺🇸, aprendiendo Portugués 🇧🇷  
 - 🎓 Estudiante de Ingeniería en Telecomunicaciones  
@@ -24,27 +25,18 @@ Soy un estudiante colombiano de 20 años, apasionado por la **seguridad informá
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
     </td>
     <td>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
-      <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="40" title="Packet Tracer"/>
-      <img src="https://raw.githubusercontent.com/nidhaloff/deep-translator/master/img/jupyter.png" width="40" title="Jupyter"/>
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" title="OpenCV"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="40" title="Cisco Packet Tracer"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" title="Jupyter"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" title="OpenCV"/>
     </td>
   </tr>
 </table>
-
----
-
-## 📈 Estadísticas de GitHub
-
-| ![Miguel GitHub Stats](https://github-readme-stats.vercel.app/api?username=migueljimenez2025&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueljimenez2025&layout=compact&theme=radical) |
-| --- | --- |
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=migueljimenez2025&theme=radical)
 
 ---
 
