@@ -2,17 +2,14 @@
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
-I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
+Hola, soy Miguel, tengo 20 años y me encanta seguridad y el manejo de redes.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on YOLO v5
-- 🌱 I’m currently learning custom object detection
-- 👯 I’m looking to collaborate on Computer Vision
-- 🤔 I’m looking for a good project
-- 💬 Ask me about Computer Vision
-- 📫 How to reach me: [maitysourab@gmail.com](mailto:maitysourab@gmail.com)
-- 😄 Pronouns: He
-- ⚡ Fun fact: Big fan of 🌈
-
+- 🔭 Manejo dos lenguajes: Español e inglés. Actualmente estoy aprendiendo portugues
+- 🌱 Voy en 6to semestre de inengieria en Telecomunicaciones
+- 👨‍💻 Excelente trabajando en equipo 
+- 🤔 Estoy iniciando en el mundo de la seguridad y estaré desarrollando diversos proyectos en mi GitHub
+- 🇨🇴 Colombiano
+- 📫 Correo: [ing.migueljimenez2022@gmail.com)
 <div align="center">
 <a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
 
